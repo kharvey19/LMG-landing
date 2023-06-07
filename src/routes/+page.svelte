@@ -54,7 +54,7 @@
             </div>
         </div>
     </div>
-    
+
     <!-- div for the main content on screen -->
     <div class="col-span-11 relative z-20">
         <!-- top div -->
@@ -68,9 +68,13 @@
         </div>
         <!-- Main Text -->
         <div class="md:border-b-2 ml-10 mt-32 md:mr-10">
-            <p class="text-5xl md:mt-52 md:ml-10 md:mr-10 lg:text-7xl mt-28 font-bold text-center font-lato"> A cheaper, faster, more flexible <br> degree planning solution </p>
-            <p class="text-center text-3xl mt-10 text-BrandGreen font-bold md:ml-32 md:mr-32 font-lato"> 
+            <p class="hidden md:block text-5xl md:mt-52 md:ml-10 md:mr-10 lg:text-7xl mt-28 font-bold text-center font-lato"> A cheaper, faster, more flexible <br> degree planning solution </p>
+            <p class="hidden md:block text-center text-3xl mt-10 text-BrandGreen font-bold md:ml-32 md:mr-32 font-lato"> 
                 We envision a world where there is no barrier between <br> learning and accreditation. Learning can take many forms - let's <br> 
+                grant credit where it's due! </p>
+                <p class="block md:hidden text-5xl md:mt-52 md:ml-10 md:mr-10 lg:text-7xl mt-28 font-bold text-center font-lato"> A cheaper, faster, more flexible degree planning solution </p>
+            <p class="block md:hidden text-center text-3xl mt-10 text-BrandGreen font-bold md:ml-32 md:mr-32 font-lato"> 
+                We envision a world where there is no barrier between learning and accreditation. Learning can take many forms - let's
                 grant credit where it's due! </p>
             <!-- Wait list Button -->
             <div class="flex justify-center mt-5 mb-36">
