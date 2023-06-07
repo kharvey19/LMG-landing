@@ -15,6 +15,7 @@ const config = {
       },
       fontFamily: {
         customFont: ['Heebo', 'sans-serif'],
+        lato: ['Lato', 'sans-serif'],
       },
     },
   },

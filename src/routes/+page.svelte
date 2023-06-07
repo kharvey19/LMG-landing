@@ -69,14 +69,13 @@
         </div>
         <!-- Main Text -->
         <div class="md:border-b-2 ml-10 mt-32 md:mr-10">
-            <p class="text-5xl md:mt-52 md:ml-10 md:mr-10 lg:text-7xl mt-28 font-bold text-center "
-            style="font-family: 'Lato'"> A cheaper, faster, more flexible <br> degree planning solution </p>
-            <p class="text-center text-3xl mt-10 text-BrandGreen font-bold md:ml-32 md:mr-32 " style="font-family: 'IBM Plex Sans', sans-serif;"> 
+            <p class="text-5xl md:mt-52 md:ml-10 md:mr-10 lg:text-7xl mt-28 font-bold text-center font-lato"> A cheaper, faster, more flexible <br> degree planning solution </p>
+            <p class="text-center text-3xl mt-10 text-BrandGreen font-bold md:ml-32 md:mr-32 font-lato"> 
                 We envision a world where there is no barrier between <br> learning and accreditation. Learning can take many forms - let's <br> 
                 grant credit where it's due! </p>
             <!-- Wait list Button -->
             <div class="flex justify-center mt-5 mb-36">
-                <button style="font-family: 'Lato';
+                <button style="font-family: Lato';
                 " class="rounded-md mt-6 bg-BrandOrange p-3 font-bold text-xl px-5 text-white hover:bg-white border-transparent border-4 hover:border-4 hover:text-BrandOrange hover:border-BrandOrange" on:click={openNewWindow}> Join the Waitlist</button>
             </div>
         </div>
