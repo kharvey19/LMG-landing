@@ -59,12 +59,10 @@
         <!-- top div -->
         <div class="flex bg-white justify-between border-b-2" style="position: sticky;
         top: 0;">
-            <h1 class="text-BrandBlue m-10 text-4xl mt-12 md:mt-10 md:text-5xl font-bold"
-            style="font-family: 'Lato'"> Let Me Graduate </h1>
+            <h1 class="text-BrandBlue m-10 text-4xl mt-12 md:mt-10 md:text-5xl font-bold font-lato"> Let Me Graduate </h1>
             <div class="m-10">
                 <!-- Contact Us Button -->
-                <button style="font-family: 'Lato';
-                " class="rounded-md bg-BrandBlue border-transparent border-4 p-3 font-bold md:text-xl md:px-5 text-white hover:text-BrandBlue hover:border-4 hover:border-BrandBlue hover:bg-white" on:click={openEmailClient}> Contact Us </button>
+                <button class="font-lato rounded-md bg-BrandBlue border-transparent border-4 p-3 font-bold md:text-xl md:px-5 text-white hover:text-BrandBlue hover:border-4 hover:border-BrandBlue hover:bg-white" on:click={openEmailClient}> Contact Us </button>
             </div>
         </div>
         <!-- Main Text -->
@@ -75,8 +73,7 @@
                 grant credit where it's due! </p>
             <!-- Wait list Button -->
             <div class="flex justify-center mt-5 mb-36">
-                <button style="font-family: Lato';
-                " class="rounded-md mt-6 bg-BrandOrange p-3 font-bold text-xl px-5 text-white hover:bg-white border-transparent border-4 hover:border-4 hover:text-BrandOrange hover:border-BrandOrange" on:click={openNewWindow}> Join the Waitlist</button>
+                <button class=" font-lato rounded-md mt-6 bg-BrandOrange p-3 font-bold text-xl px-5 text-white hover:bg-white border-transparent border-4 hover:border-4 hover:text-BrandOrange hover:border-BrandOrange" on:click={openNewWindow}> Join the Waitlist</button>
             </div>
         </div>
         <!-- Bottom Div -->
