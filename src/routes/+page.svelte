@@ -57,7 +57,7 @@
     <!-- div for the main content on screen -->
     <div class="col-span-11 relative z-20">
         <!-- top div -->
-        <div class="flex bg-white justify-between border-b-2 " style="position: sticky;
+        <div class="flex bg-white justify-between border-b-2" style="position: sticky;
         top: 0;">
             <h1 class="text-BrandBlue m-10 text-4xl mt-12 md:mt-10 md:text-5xl font-bold"
             style="font-family: 'Lato'"> Let Me Graduate </h1>
