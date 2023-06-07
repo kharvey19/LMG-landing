@@ -54,6 +54,7 @@
             </div>
         </div>
     </div>
+    
     <!-- div for the main content on screen -->
     <div class="col-span-11 relative z-20">
         <!-- top div -->
