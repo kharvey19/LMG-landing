@@ -86,11 +86,21 @@
         <!-- Bottom Icons for Small Screen -->
         <div class="bg-BrandGreen w-screen p-2 pb-9 block md:hidden">
             <div class="flex justify-center">
-                <img class="w-8 h-8 mt-8 mr-4 hover:opacity-70" src="twitter-xxl.png" alt="Twitter Logo" />
-                <img class="w-8 h-8 mt-8 mr-5 hover:opacity-70" src="instagram.png" alt="Instagram Logo" />
-                <img class="w-7 h-7 mt-8 mr-4 hover:opacity-70" src="linkedin-xxl.png" alt="LinkedIn Logo" />
-                <img class="w-7 h-7 mt-8 mr-2 hover:opacity-70" src="tiktok-xxl.png" alt="TikTok Logo" />
-                <img class="w-7 h-7 mt-8 hover:opacity-70" src="facebook-xxl.png" alt="Facebook Logo" />
+                <a href="https://twitter.com/letmegraduatee" target="_blank">
+                    <img class="w-8 h-8 mt-8 mr-4 hover:opacity-70" src="twitter-xxl.png" alt="Twitter Logo" />
+                </a>
+                <a href="https://www.instagram.com/letmegraduate_/">
+                    <img class="w-8 h-8 mt-8 mr-5 hover:opacity-70" src="instagram.png" alt="Instagram Logo" />
+                </a>
+                <a href="https://www.linkedin.com/company/letmegraduate/about/">
+                    <img class="w-7 h-7 mt-8 mr-4 hover:opacity-70" src="linkedin-xxl.png" alt="LinkedIn Logo" />
+                </a>
+                <a href="https://www.tiktok.com/@letmegraduate">
+                    <img class="w-7 h-7 mt-8 mr-2 hover:opacity-70" src="tiktok-xxl.png" alt="TikTok Logo" />
+                </a>
+                <a href="https://www.facebook.com/letmegraduatee/">
+                    <img class="w-7 h-7 mt-8 hover:opacity-70" src="facebook-xxl.png" alt="Facebook Logo" />
+                </a>
             </div>
         </div>
     </div>
